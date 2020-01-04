@@ -1,4 +1,4 @@
-# CSC 515 - Advanced Internet Programming
+# CSC 515/615 - Advanced Internet Programming
 ## Course Policy Statement - Spring 2020
 
 **Office:** No campus office  
