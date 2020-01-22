@@ -1,5 +1,5 @@
 # CSC 515/615 - Advanced Internet Programming
-Spring 2019
+Spring 2020
 
 ## Overview
  * [Course Syllabus](syllabus.md)
