@@ -5,7 +5,7 @@ Spring 2019
  * [Course Syllabus](syllabus.md)
 
 ### Reference Material
- * [Lecture Videos](https://www.youtube.com/playlist?list=PLySiLhgfbmzZq3_Sxd7a5t8WRwG5HTxkN)
+ * [Lecture Videos](https://www.youtube.com/playlist?list=PLySiLhgfbmzZ8guXBehNJ_8OMVXdS-Xkm)
  * [EcmaScript 2015 (ES6)](https://github.com/nzakas/understandinges6)
  * [npm package.json](https://docs.npmjs.com/files/package.json)
  * [NodeJS modules](https://nodejs.org/api/modules.html)
