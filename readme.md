@@ -3,6 +3,7 @@ Spring 2020
 
 ## Overview
  * [Course Syllabus](syllabus.md)
+ * [Project Homework Checkpoints](project/)
 
 ### Reference Material
  * [Lecture Videos](https://www.youtube.com/playlist?list=PLySiLhgfbmzZ8guXBehNJ_8OMVXdS-Xkm)
